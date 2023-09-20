@@ -17,3 +17,4 @@ lista não  numerada:
 lista de tarefas:
 -[] tarefa não finalizada 
 -[x] tarefa finalizada
+![Papel-de-Parede-GERAL](https://github.com/camilykisner/aula1/assets/144925210/28ec76c4-8bd1-4133-b29b-74b24b6eb21f)
