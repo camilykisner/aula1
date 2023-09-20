@@ -15,8 +15,8 @@ lista não  numerada:
 *terceiro
 
 lista de tarefas:
--[] tarefa não finalizada 
--[x] tarefa finalizada
+- [ ] tarefa não finalizada 
+- [x] tarefa finalizada
 ![Papel-de-Parede-GERAL](https://github.com/camilykisner/aula1/assets/144925210/28ec76c4-8bd1-4133-b29b-74b24b6eb21f)
 
 
@@ -27,3 +27,14 @@ tabela:
 NUMERO|nome|nota
 --|--|--
 1|vitoria|9
+
+código:
+exemplo de como colocar comando no meio do texto: `System.out.println()`
+
+codigo maiores :
+```
+system.out.println();
+if(a == 2){
+system.out.println();
+}
+```
