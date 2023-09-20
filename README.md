@@ -22,3 +22,8 @@ lista de tarefas:
 
 link:
 link para ifc(www.ifc.edu.br)
+
+tabela:
+NUMERO|nome|nota
+..|..|..
+1|vitoria|9
