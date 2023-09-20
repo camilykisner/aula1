@@ -13,3 +13,7 @@ lista não  numerada:
 *primeiro
 *segundo
 *terceiro
+
+lista de tarefas:
+-[] tarefa não finalizada 
+-[x] tarefa finalizada
